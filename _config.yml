@@ -18,4 +18,4 @@ github_username:  majinju
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
